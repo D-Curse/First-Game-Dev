@@ -90,7 +90,7 @@ public class PlayfabManager : MonoBehaviour
     public void LoadNextScene()
     {
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
-        SceneManager.LoadScene("UI");
+        SceneManager.LoadScene("UI-3");
         SoundManager.Instance.ChangeVolume(1);
     }
 }
