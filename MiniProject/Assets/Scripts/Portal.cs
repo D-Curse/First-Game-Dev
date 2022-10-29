@@ -12,6 +12,7 @@ public class Portal : Collider
         {
             //TempPosition = player.transform.position;
             //Teleport the player
+            Debug.Log("Teleported");
             string sceneName = sceneNames[Random.Range(0,sceneNames.Length)];
             UnityEngine.SceneManagement.SceneManager.LoadScene(sceneName);
         }
