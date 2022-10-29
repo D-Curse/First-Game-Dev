@@ -13,7 +13,7 @@ public class PlayfabManager : MonoBehaviour
     [SerializeField] public InputField emailInput;
     [SerializeField] public InputField passwordInput;
 
-    //Sign In section
+    //Sign Up section
 
     public void RegisterButton()
     {
@@ -83,7 +83,7 @@ public class PlayfabManager : MonoBehaviour
     
     void Start()
     {
-        Debug.Log("Pls work!!!!!!!!");
+        
         SoundManager.Instance.ChangeVolume(0);
     }
 
