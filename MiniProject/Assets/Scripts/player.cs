@@ -51,5 +51,25 @@ public class player : MonoBehaviour
         animator.SetFloat("Horizontal",Movement.x);
         animator.SetFloat("Vertical",Movement.y);
         animator.SetFloat("Speed",Movement.sqrMagnitude);
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            Attack();
+            Debug.Log("Attacked");
+        }
+
     }
+
+    void Attack()
+    {
+        animator.SetTrigger("Attack");
+    }
+
+   /* private void Awake() 
+    {
+        Movement.x = Input.GetAxisRaw("Horizontal");
+        Movement.y = Input.GetaxisRaw("Vertical");
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+    }*/
 }

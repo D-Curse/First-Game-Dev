@@ -35896,6 +35896,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ladder 1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6211308534086548762, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6211308534086548762, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9089862065575025852, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
       propertyPath: sceneNames.Array.size
       value: 2
@@ -35972,6 +35980,14 @@ PrefabInstance:
     - target: {fileID: 5545652687767306821, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
       propertyPath: m_Name
       value: ladder 1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6211308534086548762, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6211308534086548762, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9089862065575025852, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
       propertyPath: sceneNames.Array.size
@@ -36158,6 +36174,14 @@ PrefabInstance:
     - target: {fileID: 5545652687767306821, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
       propertyPath: m_Name
       value: ladder 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6211308534086548762, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6211308534086548762, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9089862065575025852, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
       propertyPath: filter.useTriggers
@@ -40949,7 +40973,7 @@ AudioListener:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1744085415}
-  m_Enabled: 1
+  m_Enabled: 0
 --- !u!1001 &1791114113
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41020,6 +41044,14 @@ PrefabInstance:
     - target: {fileID: 5545652687767306821, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
       propertyPath: m_Name
       value: ladder 1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6211308534086548762, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6211308534086548762, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9089862065575025852, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
       propertyPath: sceneNames.Array.size
@@ -41101,6 +41133,14 @@ PrefabInstance:
     - target: {fileID: 5545652687767306821, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
       propertyPath: m_Name
       value: ladder 1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6211308534086548762, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6211308534086548762, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9089862065575025852, guid: 7d21c40faf0cd3e45835ccd3731b5b57, type: 3}
       propertyPath: sceneNames.Array.size
