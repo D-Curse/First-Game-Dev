@@ -24,7 +24,7 @@ public class Escape : MonoBehaviour
             {
                 DontDestroyOnLoad(this.gameObject);
                 Debug.Log("Loaded Menu");
-                UnityEngine.SceneManagement.SceneManager.LoadScene("Menu");
+                UnityEngine.SceneManagement.SceneManager.LoadScene("Menu-4");
                 Instance = 1;
             }
             else if(Instance == 1)
